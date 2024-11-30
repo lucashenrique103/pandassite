@@ -1,0 +1,30 @@
+Dados recebidos: null
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 05-01-2025
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29, Data de Expiração: 2025-01-02
+Erro: Arquivo de contas SMTP não encontrado.
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: Fri-Nov-2024, Data de Expiração: 01-01-2025
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29 20:48:33, Data de Expiração: 2025-01-01 17:16:18
+Erro: Arquivo de contas SMTP não encontrado.
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29 20:49:59, Data de Expiração: 2025-01-01 17:16:18
+Erro: Arquivo de contas SMTP não encontrado.
+Dados recebidos: {"usuario":"baby","senha":"baby2264"}
+Data atual: 2024-11-29 20:50:28, Data de Expiração: 2025-01-01 17:16:18
+Erro: Arquivo de contas SMTP não encontrado.
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29 20:51:04, Data de Expiração: 2025-01-01 17:16:18
+Erro: Arquivo de contas SMTP não encontrado.
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29 20:54:12, Data de Expiração: 2025-01-01 17:16:18
+Erro: Arquivo de contas SMTP não encontrado.
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 2024-11-29 20:55:51, Data de Expiração: 2025-01-01 17:16:18
+Erro: Arquivo de contas SMTP não encontrado.
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 29-11-24 21:01:29, Data de Expiração: 2025-01-01 17:16:18
+Dados recebidos: {"usuario":"maserati","senha":"maserati"}
+Data atual: 29-11-24 21:02:28, Data de Expiração: 01-01-2025 17:16:18
